@@ -7,11 +7,12 @@
   }
   
   body {
-    height: 100%;
-    min-height: 100vh;
-    background: url('tenor.gif');
+    height: auto;
+    min-height: auto;
+    margin: auto;
+    background: url('123abc.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     overflow: hidden;
     color: #333;
   }
